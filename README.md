@@ -27,8 +27,9 @@ The app uses different API endpoints to search for meals, look up recipe details
 - Responsive design for desktop and mobile
 
 ## Link to live site
-
+gabriellasnascimento.github.io/api-recipe-finder/  
 ## Screenshot
+![Screenshot of API Recipe Finder](screenshot.png)
 
 ## What I learned about working with APIs
 

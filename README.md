@@ -28,15 +28,7 @@ The app uses different API endpoints to search for meals, look up recipe details
 
 ## Link to live site
 
-Add your GitHub Pages link here:
-
-[Live Site](PASTE-YOUR-GITHUB-PAGES-LINK-HERE)
-
 ## Screenshot
-
-Add a screenshot of your app here after you deploy it:
-
-![Screenshot of API Recipe Finder](screenshot.png)
 
 ## What I learned about working with APIs
 
